@@ -17,10 +17,10 @@
   "WP8Publisher": "",
   "WP8Capabilities": [],
   "WP8Requirements": [],
-  "WP8PublisherID": "",
-  "WP8ProductID": "",
+  "WP8PublisherID": "{1ce13001-bed3-4b07-8f70-6fcbea6f63a3}",
+  "WP8ProductID": "{0dec7d58-1ce2-46e0-86c6-e1ce9a065fea}",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "FrameworkVersion": "3.5.0",
+  "FrameworkVersion": "3.7.0",
   "CorePlugins": [
     "org.apache.cordova.console",
     "org.apache.cordova.device",
@@ -41,5 +41,7 @@
     "ID_RESOLUTION_HD720P"
   ],
   "Framework": "Cordova",
-  "CordovaPluginVariables": {}
+  "CordovaPluginVariables": {},
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.plugindemo.spinner"
 }
